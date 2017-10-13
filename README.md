@@ -1,5 +1,5 @@
 # codigo-de-conduta
-Esse é o Código de conduta da organização de alunos da Fatec Sorocaba. Esse código foi inspirado no código de conduta do GDG Sorocaba e no Anti-Harassment Policy da Google para os GDGs.
+Esse é o Código de conduta da organização do Xamarin Sorocaba. Esse código foi inspirado no código de conduta da Semana de Tecnologia da FATEC Sorocaba, do GDG Sorocaba e no Anti-Harassment Policy da Google para os GDGs.
 
 ## Guia da Organização 
 - Seja excelente com os outros
@@ -33,7 +33,7 @@ Assédio inclui, mas não está limitado a:
 Parceiros, expositores e palestrantes também estão sujeitos ao código de conduta. Em particular, estes não devem usar de imagens, atividades ou qualquer outro material de cunho sexual ou criar um ambiente desse tipo em sua apresentação, equipe, material de exibição, itens promocionais ou de demonstração.
 
 
-## Porque temos um código de conduta para a organização de alunos da Fatec Sorocaba?
+## Porque temos um código de conduta para a organização do Xamarin Sorocaba?
 
 
 ## Dedicamos-nos a prover um ambiente e eventos livres de assédios para todos, independente de:
